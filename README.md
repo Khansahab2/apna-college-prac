@@ -1,2 +1,4 @@
 # apna-college-prac
-this is my first Repo
+This is my first Git Repo,
+<br>
+Author:khansahab
